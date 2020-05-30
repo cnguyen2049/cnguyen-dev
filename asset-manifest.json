@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/python490/cnguyen-dev/static/css/main.5f361e03.chunk.css",
+    "main.js": "/python490/cnguyen-dev/static/js/main.6dfec6dd.chunk.js",
+    "main.js.map": "/python490/cnguyen-dev/static/js/main.6dfec6dd.chunk.js.map",
+    "runtime-main.js": "/python490/cnguyen-dev/static/js/runtime-main.3a43f4a5.js",
+    "runtime-main.js.map": "/python490/cnguyen-dev/static/js/runtime-main.3a43f4a5.js.map",
+    "static/js/2.fd1b07f4.chunk.js": "/python490/cnguyen-dev/static/js/2.fd1b07f4.chunk.js",
+    "static/js/2.fd1b07f4.chunk.js.map": "/python490/cnguyen-dev/static/js/2.fd1b07f4.chunk.js.map",
+    "index.html": "/python490/cnguyen-dev/index.html",
+    "precache-manifest.431bb38c3b182940edaf4aa36fc2deaf.js": "/python490/cnguyen-dev/precache-manifest.431bb38c3b182940edaf4aa36fc2deaf.js",
+    "service-worker.js": "/python490/cnguyen-dev/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/python490/cnguyen-dev/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fd1b07f4.chunk.js.LICENSE.txt": "/python490/cnguyen-dev/static/js/2.fd1b07f4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/python490/cnguyen-dev/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a43f4a5.js",
+    "static/js/2.fd1b07f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6dfec6dd.chunk.js"
+  ]
+}
